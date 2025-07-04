@@ -1,0 +1,1 @@
+This Folder includes all the solutions to the Spring Core and Maven module.
