@@ -1,0 +1,19 @@
+.formatstyle {
+  padding: 20px;
+  border: 2px solid #ccc;
+  width: 400px;
+  margin: 20px auto;
+  background-color: #f9f9f9;
+  font-family: Arial;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+.formatstyle div {
+  margin: 10px 0;
+}
+
+.Score span {
+  font-weight: bold;
+  color: green;
+}
